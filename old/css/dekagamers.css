@@ -1,0 +1,146 @@
+#contenedor {
+		width: 1100px;
+		margin: 0px auto -50px auto;
+		}
+		
+	#cabecera {
+				background-color: white;
+				margin: -5px auto -50px auto;
+			}
+		               
+	#logo {
+			margin: 80px -100px 2px auto;
+			float: left
+			}
+		
+	.img{
+       margin: 1px 1px 1px 1px;
+	   padding: 8px;
+		}
+		
+	#nav{
+			border: solid;
+			border-radius: 12px;
+			-moz-border-radius: 12px;
+			margin: 50px auto auto auto;
+		}
+		
+	#nav li {
+			float: left;
+			border-width: 0px 0px 0px;
+			border-color: #0000;
+			padding: 0px 10px;
+			display: inline-block;
+			margin: 8px 0px;
+
+               }
+			
+	#busqueda {
+			margin: 5px auto 1px 25px;
+			float: right;
+			}
+			
+	.relleno {
+		clear: both;
+		}
+		
+	#izq {
+			float: left;
+			width: 275px;
+			border-width: 2px ;
+			border-style: solid;
+			margin: 5px 22.5px auto 0px;
+			padding: 5px;
+			font-size: 10px;
+			}
+			
+	p#brevebio {
+			clear: both;
+			padding: 7px;
+			}
+			
+	p#brevebio: before {
+			content: "Little Bio";
+			font-weight: bold;
+			}	
+			
+	#cent{
+            width: 384.5px;
+            float: left;
+            margin: 5px -1px 0px -17px;
+            border-width: 2px ;
+  			border-style: solid;
+			padding: 5px 5px;
+			font-size: 12px;
+			}
+			
+	#cent img {
+			padding: 7px;
+			}
+			
+	#drch{
+			width: 384.5px;
+  			float: left;
+  			margin: 5px 0px 0px 7px;
+  			border-width: 2px ;
+  			border-style: solid;
+			padding: 5px 5px;
+			font-size: 12px;
+
+			}
+			
+	p#articulo{
+				padding: 7px;
+				}
+				
+	p#data{
+				text-align: right;	
+		}
+		
+	p#data:     before{
+				content: "Publish data: ";
+				font-weight: bold;
+				}
+				
+
+		
+	#pie{
+		float: right;
+		width: 1100px;
+		margin: 20px;
+		margin-right: 80px;
+		height: 145px;
+		padding: auto;
+		border: 2px solid #a1a1a1;
+		border-radius: 8px;
+		-moz-border-radius: 8px;
+		-webkit-border-radius: 8px;
+		background: grey url('imagenes/lilaguapo.png') repeat-x 0 0;
+		background-size: 100% 100%;
+		
+		
+		}
+		
+	#social{
+		float: right;
+		padding: 10px;
+		margin: 0px;
+		border: 2px solid #a1a1a1;
+		border-radius: 8px;
+		-moz-border-radius: 8px;
+		background-color: grey;
+		}
+		
+	#social ul{
+		list-style-type: none;
+		font-size: 10px;
+		font-color: black;
+		font-family: arial;
+
+		}
+		
+	#social ul li img{
+		vertical-align: middle;
+		padding-right: 5px;
+
+		}

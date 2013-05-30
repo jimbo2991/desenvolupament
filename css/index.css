@@ -1,0 +1,430 @@
+	body {
+		background-color: #eeeeee;
+	}
+	
+	#contenedor {
+		width: 1100px;
+		margin: 0px auto -50px auto;
+		}
+		
+	#contenedor1{
+			float: left;
+			width: 50%;
+			height: 280px;
+			margin: 5px 22.5px auto 0px;
+			/*border-width: 1px;
+			border-style: solid;*/
+			background-color: none;
+			}	
+		
+	#contenedor2{
+			float: left;
+			width: 63%;
+			height: 26.6%;
+			margin: 7px 8px auto 0px;
+			border-width: 2px;
+			border-style: solid;
+			background-color: none;
+			padding: 5px 5px;
+			border-radius: 12px;
+			-moz-border-radius: 12px;
+			}	
+		
+	#contenedor3{
+			float: left;
+			width: 98.5%;
+			margin: 5px 22.5px 10px auto;
+			border-width: 2px;
+			border-style: solid;
+			background-color: none;
+			padding: 5px 5px;
+			}
+			
+	#banner_concurso{
+			float: left;
+			width: 33.5%;
+			height: 252px;
+			margin: 5px 0px auto 0px;
+			border-width: 2px;
+			border-style: solid;
+			background-color: none;
+			padding: 5px 5px;
+			border-radius: 12px;
+			-moz-border-radius: 12px;
+			}
+			
+	#banner_concurso img{
+			width: 370px;
+			height: 252px;
+			border-radius: 12px;
+			-moz-border-radius: 12px;
+
+			}
+			
+	#nuevosproductos{
+			float: left;
+			width: 33.5%;
+			height: 50%;
+			margin: 5px 0px auto 143px;
+			border-width: 2px;
+			border-style: solid;
+			background-color: none;
+			padding: 5px 5px;
+			border-radius: 12px;
+			-moz-border-radius: 12px;
+			font-size: 20px;
+			
+			}
+			
+		.nombrejuegoclase{
+			color: #5858FA;
+		}	
+		
+		.preciojuegoclase{
+			color: purple;
+			font-size: 15px;
+		}
+			
+			
+			
+		#nproducto1{
+			float: left;
+			border: solid;
+			border-width: 1px;
+			padding-left: 5px;
+			margin-right: 35px;
+			font-size: 12px;
+			height: 45%;
+			background-color: ;
+			color: ;
+
+			}
+			
+			
+		#nproducto2{
+			float: left;
+			border: solid;
+			border-width: 1px;
+			margin-right: 35px;
+			font-size: 12px;
+			height: 45%;
+			
+			}
+			
+		#nproducto3{
+			float: left;
+			border: solid;
+			border-width: 1px;
+			font-size: 12px;
+			height: 45%;
+			
+			}
+			
+		#nproducto4{
+			float: left;
+			border: solid;
+			border-width: 1px;
+			width: 25%;
+			height: 45%;
+			margin: 15px 55px auto auto;
+			font-size: 12px;
+			
+			}
+			
+		#nproducto5{
+			float: left;
+			border: solid;
+			border-width: 1px;
+			margin: 15px auto auto -17;
+			height: 45%;
+			font-size: 12px;
+			
+			}
+			
+		#nproducto6{
+			float: left;
+			font-size: 12px;
+			border: solid;
+			margin: 15px auto auto 35px;
+			height: 45%;
+			border-width: 1px;
+			
+			}
+		
+	#cabecera {
+				background-color: white;
+				margin: -5px auto -50px auto;
+			}
+		               
+	#logo {
+			margin: 80px -100px 2px auto;
+			float: left
+			}
+		
+	.img{
+       margin: 1px 1px 1px 1px;
+	   padding: 8px;
+		}
+
+		
+	#nav{	
+			
+			border: solid;
+			width: 99.5%;
+			border-radius: 12px;
+			-moz-border-radius: 12px;
+			margin: 50px auto auto auto;
+			height: 60px;
+			text-align: center;
+			
+		}
+		
+	#nav li {
+			
+			border-width: 0px 0px 0px;
+			border-color: #0000;
+			padding: 0px 10px;
+			display: inline-block;
+			margin: 15px 0px 15px;
+
+               }
+			
+	#busqueda {
+			margin: 5px auto 1px 25px;
+			float: right;
+			}
+			
+	.relleno {
+		clear: both;
+		}
+		
+	#izq {
+			float: left;
+			width: 342px;
+			height: 525px;
+			border-width: 2px ;
+			border-style: solid;
+			margin: 10px 22.5px auto 0px;
+			padding: 5px;
+			
+			}
+			
+	#izq h2 {
+			margin: 0px 0px 15px;
+			font-size: 20px;
+			}
+			
+	#izq img {
+			margin: 0px 0px 15px 8px;
+			
+			}
+				
+	#cent{
+			float: left;
+            width: 342px;
+            height: 525px;
+            margin: 10px -1px 0px -15px;
+            border-width: 2px ;
+  			border-style: solid;
+			padding: 5px;
+			}
+			
+	#cent h2 {
+			margin: 0px 0px 15px;
+			font-size: 20px;
+			}
+			
+	#cent img {
+			margin: 0px 0px 15px 8px;
+			
+			}
+			
+			
+	#drch{
+			float: left;
+			width: 342px;
+  			height: 525px;
+  			margin: 10px 0px 0px 9px;
+  			border-width: 2px ;
+  			border-style: solid;
+			padding: 5px;
+
+			}
+			
+	#drch h2 {
+			margin: 0px 0px 15px;
+			font-size: 20px;
+			}
+			
+	#drch img {
+			margin: 0px 0px 15px 8px;
+			
+			}
+		
+	#pie{
+		   width: 1100px;
+
+		}
+		
+	#legal{
+		float: left;
+		text-align: center;
+		background-color: #CC2EFA;
+		width: 1100px;
+		margin: 0px;
+		margin-right: 10px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		border: 2px solid #a1a1a1;
+		border-radius: 8px;
+		-moz-border-radius: 8px;
+		-webkit-border-radius: 8px;
+		color: white;
+		
+		}
+		
+	#legal a{
+		color: white;
+	}
+
+/* primera fila de juegos */
+
+	#cajajuego{
+			float: left;
+			border: 1px solid #000;
+			background-color: blue;
+			border-radius: 8px;
+			-moz-border-radius: 8px;
+			-webkit-border-radius: 8px;
+			margin: -5px;
+		}
+		
+
+				
+/* primera fila */
+	.img1{
+	   padding: 8px;
+	   float: left;
+	   margin: -13px -35px 10px -13px;
+		}
+		
+	.img2{
+	   padding: 8px;
+	   float: left;
+	   margin: -13px -35px 10px 39px;
+		}
+		
+	.img3{
+	   padding: 8px;
+	   float: left;
+	   margin: -13px -39px 20px 39px;
+		}
+		
+/* segunda fila */
+	.img4{
+	   padding: 8px;
+	   float: left;
+	   margin: -13px -39px 0px -13px;
+		}
+		
+	.img5{
+	   padding: 8px;
+	   float: left;
+	   margin: -13px -35px 0px 39px;
+		}
+		
+	.img6{
+	   padding: 8px;
+	   float: left;
+	   margin: -50px -39px 0px 39px;
+		}
+		
+/* tercera fila */
+	.img7{
+	   padding: 8px;
+	   float: left;
+	   margin: -13px -35px 0px -13px;
+		}
+		
+	.img8{
+	   padding: 8px;
+	   float: left;
+	   margin: -13px -35px 0px 4px;
+		}
+		
+	.img9{
+	   padding: 8px;
+	   float: left;
+	   margin: -13px -35px 0px 4px;
+		}
+		
+/* cuarta fila */
+	.img10{
+	   padding: 8px;
+	   float: left;
+	   margin: -13px -35px 0px -13px;
+		}
+		
+	.img11{
+	   padding: 8px;
+	   float: left;
+	   margin: -13px -35px 0px 4px;
+		}
+		
+	.img12{
+	   padding: 8px;
+	   float: left;
+	   margin: -13px -35px 0px 4px;
+		}
+		
+		
+		/* Banners 125x125 */
+	#banners125 {
+	margin: 10px 0;
+	width:100%;
+	}
+	#banners125 ul {
+	padding:0;
+	margin:0;
+	list-style-type:none;
+	}
+	#banners125 ul li {
+	float: left;
+	margin:10px 0 0 10px;
+	display: inline;
+	}
+	#banners125 img {
+	display: block;
+}
+
+#nav li:hover
+{
+	background-color: #4B0082;
+	color: #fff;
+	font-size: 20px;
+	
+} 
+
+a { 
+	text-decoration:none; 
+	color: black;
+ }
+ 
+a, a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+.slider-wrapper { 
+	width: 128%; 
+	height: 100%;
+	margin: 0px auto;
+}
+
+.clear {
+	clear:both;
+}
+
+
+
+

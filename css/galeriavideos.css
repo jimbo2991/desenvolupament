@@ -1,0 +1,135 @@
+	#contenedor {
+	width: 1100px;
+	margin: 0px auto -50px auto;
+		}
+		
+	#contenido{
+			float: left;
+			width: 100%;
+			margin: 15px 8px 10px auto;
+			text-align: left;
+			/*border-width: 1px;
+			border-style: solid;*/
+			background-color: none;
+			font-size: 18px;
+			font-family: 'Droid Sans',arial,sans-serif;
+			/*border-radius: 12px;
+			-moz-border-radius: 12px;*/
+
+			}	
+	
+	#cabecera {
+				background-color: white;
+				margin: -5px auto -50px auto;
+			}
+		               
+	#logo {
+			margin: 80px -100px 2px auto;
+			float: left
+			}
+		
+	.img{
+       margin: 1px 1px 1px 1px;
+	   padding: 8px;
+		}
+	
+		input {
+	}
+	
+		
+	#nav{	
+			
+			border: solid;
+			width: 99.5%;
+			border-radius: 12px;
+			-moz-border-radius: 12px;
+			margin: 50px auto auto auto;
+			height: 60px;
+			text-align: center;
+			
+		}
+		
+	#nav li {
+			
+			border-width: 0px 0px 0px;
+			border-color: #0000;
+			padding: 0px 10px;
+			display: inline-block;
+			margin: 15px 0px 15px;
+
+               }
+			
+	#busqueda {
+			margin: 5px auto 1px 25px;
+			float: right;
+			}
+			
+	#pie{
+		   width: 1100px;
+		   margin: 0px auto;
+
+		}
+		
+
+	#legal{
+		float: left;
+		text-align: center;
+		background-color: #CC2EFA;
+		width: 1100px;
+		margin: 0px;
+		margin-right: 10px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		border: 2px solid #a1a1a1;
+		border-radius: 8px;
+		-moz-border-radius: 8px;
+		-webkit-border-radius: 8px;
+		color: white;
+		
+		}
+		
+	#legal a{
+		color: white;
+	}
+
+
+#nav li:hover
+{
+	background-color: #4B0082;
+	color: #fff;
+	font-size: 20px;
+	
+} 
+
+a { 
+	text-decoration:none; 
+	color: black;
+ }
+ 
+a, a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+.clear {
+	clear:both;
+}
+
+.relleno {
+		clear: both;
+		}
+		
+.salto{
+	margin: auto auto 13px;
+	}	
+	
+.textleft{
+	text-align: left;
+	}
+		
+
+
+
+
+	
+			

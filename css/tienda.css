@@ -1,0 +1,285 @@
+	body {
+		background-color: #eeeeee;
+	}
+
+	#contenedor {
+		width: 1100px;
+		margin: auto auto -50px auto;
+		}
+	
+	
+	#escaparate{
+	
+	margin:auto auto 10px auto;
+	width: 1090px;
+	/*background-color: #eeeeee;
+	border: solid;*/
+	border-width: 2px;
+	}
+	
+	#escaparate img{
+	
+		width: 250px;
+		height: 300px;
+	}
+	
+		
+	#contenedorj{
+			float: left;
+			width: 100%;
+			margin: 5px 22px auto 0px;
+			border-width: none;
+			border-style: none;
+			background-color: none;
+			padding: 5px 5px;
+			/*background-color: red;*/
+			}
+		
+	#cabecera {
+				background-color: white;
+				margin: -5px auto -50px 0px;
+			}
+		               
+	#logo {
+			margin: 80px -100px 2px auto;
+			float: left
+			}
+		
+	.img{
+       margin: 1px 1px 1px 1px;
+	   padding: 8px;
+		}
+	
+		input {
+	}
+	
+		
+	#nav{	
+			
+			border: solid;
+			width: 99.5%;
+			border-radius: 12px;
+			-moz-border-radius: 12px;
+			margin: 50px auto auto auto;
+			height: 60px;
+			text-align: center;
+			
+		}
+		
+	#nav li {
+			
+			border-width: 0px 0px 0px;
+			border-color: #0000;
+			padding: 0px 10px;
+			display: inline-block;
+			margin: 15px 0px 15px;
+
+               }
+			
+	#busqueda {
+			margin: 5px auto 1px 25px;
+			float: right;
+			}
+			
+	.relleno {
+		clear: both;
+		}
+		
+	#izq {
+			float: left;
+			width: 275px;
+			border-width: 2px ;
+			border-style: solid;
+			margin: 5px 22.5px auto auto;
+			padding: 5px;
+			font-size: 10px;
+			}
+				
+	#cent{
+            width: 420px;
+            height: 189px;
+            float: left;
+            margin: 5px -1px auto -15px;
+            border-width: 2px ;
+  			border-style: solid;
+			padding: 5px 5px;
+			font-size: 12px;
+			}
+			
+	#cent img {
+			padding: 7px;
+			}
+			
+	#drch{
+			width: 343px;
+			height: 189px;
+  			float: left;
+  			margin: 5px 0px 0px 9px;
+  			border-width: 2px ;
+  			border-style: solid;
+			padding: 5px 5px;
+			font-size: 12px;
+
+			}
+			
+	#drch img{
+        width: 100%;
+        height: 100%;
+	}
+	
+		#banner_concurso{
+			float: left;
+			width: 33.5%;
+			margin: 5px 0px auto 0px;
+			border-width: 2px;
+			border-style: solid;
+			background-color: none;
+			padding: 5px 5px;
+			border-radius: 12px;
+			-moz-border-radius: 12px;
+			}
+			
+	#banner_concurso img{
+			width: 370px;
+			height: 228px;
+			border-radius: 12px;
+			-moz-border-radius: 12px;
+
+			}
+	
+		
+	#pie{
+		   width: 1100px;
+		 margin: auto auto auto auto;
+
+		}
+		
+	#legal{
+		float: left;
+		text-align: center;
+		background-color: #CC2EFA;
+		width: 1100px;
+		margin: 0px;
+		margin-right: 10px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		border: 2px solid #a1a1a1;
+		border-radius: 8px;
+		-moz-border-radius: 8px;
+		-webkit-border-radius: 8px;
+		color: white;
+		
+		}
+		
+	#legal a{
+		color: white;
+	}
+
+/* primera fila de juegos */
+
+	#cajajuego{
+			float: left;
+			border: 1px solid #000;
+			background-color: white;
+			border-radius: 8px;
+			-moz-border-radius: 8px;
+			-webkit-border-radius: 8px;
+			margin: -5px -10px 0px -20px; /* esto da probelmas segun el navegador */
+			font-size: 15px;
+		}
+		
+
+				
+/* primera fila */
+	.img1{
+	   padding: 8px;
+	   float: left;
+	   margin: -13px -25px 10px -75px;
+		}
+		
+	.img2{
+	   padding: 8px;
+	   float: left;
+	   margin: -13px -25px 10px 39px;
+		}
+		
+	.img3{
+	   padding: 8px;
+	   float: left;
+	   margin: -13px -25px 20px 39px;
+		}
+		
+/* segunda fila */
+	.img4{
+	   padding: 8px;
+	   float: left;
+	   margin: -13px -25px 0px -13px;
+		}
+		
+	.img5{
+	   padding: 8px;
+	   float: left;
+	   margin: -13px -25px 0px 39px;
+		}
+		
+	.img6{
+	   padding: 8px;
+	   float: left;
+	   margin: -50px -25px 0px 39px;
+		}
+		
+/* tercera fila */
+	.img7{
+	   padding: 8px;
+	   float: left;
+	   margin: -13px -25px 0px -13px;
+		}
+		
+	.img8{
+	   padding: 8px;
+	   float: left;
+	   margin: -13px -25px 0px 4px;
+		}
+		
+	.img9{
+	   padding: 8px;
+	   float: left;
+	   margin: -13px -25px 0px 4px;
+		}
+		
+/* cuarta fila */
+	.img10{
+	   padding: 8px;
+	   float: left;
+	   margin: -13px -25px 0px -13px;
+		}
+		
+	.img11{
+	   padding: 8px;
+	   float: left;
+	   margin: -13px -25px 0px 4px;
+		}
+		
+	.img12{
+	   padding: 8px;
+	   float: left;
+	   margin: -13px -25px 0px 4px;
+		}
+		
+#nav li:hover
+{
+	background-color: #4B0082;
+	color: #fff;
+	font-size: 20px;
+	
+} 
+
+a { 
+	text-decoration:none; 
+	color: black;
+ }
+ 
+a, a:visited {
+    color: black;
+    text-decoration: none;
+}
