@@ -1,0 +1,4 @@
+desenvolupament
+===============
+
+directori del projecte
