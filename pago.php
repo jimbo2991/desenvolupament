@@ -11,7 +11,7 @@ $subtotal='0';
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
 <head>
-	<title>DKgamers</title>
+	<title>DKgamers usando GIT</title>
 	<link href="css/pago.css" rel="stylesheet">
 </head>
 
