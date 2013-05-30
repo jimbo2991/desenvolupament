@@ -53,7 +53,7 @@ session_start();
 			</table>
 		  </form>
 		  <?
-		  }
+		  
 		  ?>
 	</div>
 	
